@@ -1,0 +1,23 @@
+{
+  "name": "basic-graphql-setup",
+  "version": "1.0.0",
+  "description": "setup for graphql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "graphql setup for beginner "
+  },
+  "keywords": [
+    "graphql"
+  ],
+  "author": "opeyemi",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.4",
+    "express-graphql": "^0.6.11",
+    "graphql": "^0.11.3"
+  }
+}
