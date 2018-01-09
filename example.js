@@ -19,7 +19,7 @@ let root = {
     return 'Build a Simple GraphQL Server With Express and NodeJS';
   },
   blogTitle: () => {
-    return 'scotch.io';
+    return 'hello world';
   }
 };
 
